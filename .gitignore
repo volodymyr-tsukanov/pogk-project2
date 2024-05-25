@@ -1,0 +1,8 @@
+# Folders
+assets/**
+
+# Extensions
+*.obj
+*.fbx
+*.zip
+*.mp4
