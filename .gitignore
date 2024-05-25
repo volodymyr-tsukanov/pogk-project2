@@ -1,8 +1,13 @@
 # Folders
 assets/**
 
+
 # Extensions
+*.blend1
+
 *.obj
 *.fbx
+*.dae
+
 *.zip
 *.mp4
