@@ -6,7 +6,9 @@ Underwater, seabed, going back in time, batiskaf + vase fragment -> clock tickin
 Animacja min 10s
 
 ## Usefull
-  - [Materials](https://FreePBR.com)
+- [Materials](https://FreePBR.com)
+- [Models](https://sketchfab.com)
+- [Materials, models, HDR's](https://polyhaven.com)
 
 ## Import
 [import](IMPORT.md)

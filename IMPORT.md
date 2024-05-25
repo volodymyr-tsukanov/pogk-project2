@@ -22,12 +22,9 @@
 - [Lowpoly Coral Pack](https://sketchfab.com/3d-models/lowpoly-coral-pack-29d5be0e220f48818346cabfa065e887)
   Author: assetfactory
   License: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
-- []()
-  Author: 
-  License: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
-- []()
-  Author: 
-  License: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Rock Moss Set 02](https://polyhaven.com/a/rock_moss_set_02)
+  Author: Kless Gyzen
+  License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 - []()
   Author: 
   License: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
@@ -42,6 +39,8 @@
 - [sand-dunes](https://freepbr.com/materials/sand-dunes/)
 - [wet-stones-sand](https://freepbr.com/materials/wet-stones-sand/)
 
-
-
+## HDRI
+- [Wasteland Clouds (Pure Sky)](https://polyhaven.com/a/wasteland_clouds_puresky)
+  Authors: Jarod Guest, Sergej Majboroda
+  License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 

@@ -9,5 +9,7 @@ assets/**
 *.fbx
 *.dae
 
+*.hdr
+
 *.zip
 *.mp4
