@@ -1,4 +1,5 @@
-# Project 2
+# Project SEA2
+
 ## Concept
 Underwater, seabed, going back in time, batiskaf + vase fragment -> clock ticking -> sea monster + full vase
 

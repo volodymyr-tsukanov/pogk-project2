@@ -10,6 +10,7 @@ assets/**
 *.dae
 
 *.hdr
+*.exr
 
 *.zip
 *.mp4
