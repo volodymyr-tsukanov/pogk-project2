@@ -25,19 +25,26 @@
 - [Rock Moss Set 02](https://polyhaven.com/a/rock_moss_set_02)
   Author: Kless Gyzen
   License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-- []()
-  Author: 
+- [Lowpoly fish pack](https://sketchfab.com/3d-models/lowpoly-fish-pack-812a52c7f7cc4e10b69c5c5f9e4269f2)
+  Author: assetfactory
   License: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
-- []()
-  Author: 
+- [Crescent moon coral](https://sketchfab.com/3d-models/crescent-moon-coral-28552e20d360473db6e9bdcc88dad20d)
+  Author: gavinpgamer1
   License: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
-- []()
-  Author: 
+- [Small Cargo Ship](https://sketchfab.com/3d-models/small-cargo-ship-6362d3e9b11e4396aaafa854c3aa6f06)
+  Author: Styx
   License: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Vintage Pocket Watch](https://polyhaven.com/a/vintage_pocket_watch)
+  Author: Tal Swicegood
+  License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Materials
 - [sand-dunes](https://freepbr.com/materials/sand-dunes/)
 - [wet-stones-sand](https://freepbr.com/materials/wet-stones-sand/)
+- [Mud Cracked Dry](https://polyhaven.com/a/mud_cracked_dry_03)
+  Author: Dario Barresi, Dimitrios Savva
+  License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+
 
 ## HDRI
 - [Wasteland Clouds (Pure Sky)](https://polyhaven.com/a/wasteland_clouds_puresky)
