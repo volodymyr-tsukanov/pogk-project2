@@ -10,6 +10,7 @@ Animacja min 10s
 - [Materials](https://FreePBR.com)
 - [Models](https://sketchfab.com)
 - [Materials, models, HDR's](https://polyhaven.com)
+- [Texture generator](https://cpetry.github.io/NormalMap-Online/)
 
 ## Import
 [import](IMPORT.md)
