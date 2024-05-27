@@ -12,7 +12,7 @@ assets/**
 *.hdr
 *.exr
 
-.~lock.*.odt
+.~lock.*
 
 *.zip
 *.mp4
