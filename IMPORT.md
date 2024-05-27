@@ -46,7 +46,7 @@
   License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
 
-## HDRI
+## HDRI's
 - [Wasteland Clouds (Pure Sky)](https://polyhaven.com/a/wasteland_clouds_puresky)
   Authors: Jarod Guest, Sergej Majboroda
   License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
