@@ -1,7 +1,9 @@
 # Project SEA2
 
 ## Concept
-Underwater, seabed, going back in time, batiskaf + vase fragment -> clock ticking -> sea monster + full vase
+Time travel(underwater scene -> desert)
+Action starts from underwater view near the surface, no seabed is visible. A turtle shows up at the left screen corner, the camera flies forward after the turtle capturing the prins jellyfish and a shoal of tropical fish. The turtle continues to swim forward, the camera dives to depth. Another shoal of fish swimming by horizontally. The camera descends to the seabed and slightly flies backwards. Rocks, corals and the vase fragment shows up. The camera stops, the bathyscaph moving from the front left corner of the screen to the camera. After the submarine passes the camera it leaves a trail of air bubbles. Few moments later, sea monster shows at the right front. The gigantic shark swims on the camera and eats it…
+(clock ticking -> scene changes to desert)
 
 ## Uwagi
 Animacja min 10s
