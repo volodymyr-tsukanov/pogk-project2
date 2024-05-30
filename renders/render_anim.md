@@ -1,4 +1,4 @@
-# Render etap 3 animation
+# Etap3 animation render steps
 ## Sections
 ### Near Surface
 _Frames_: 1-150
@@ -7,7 +7,7 @@ _Render preferences_:
 - Sampling **128**
 - Light Paths **8**
 
-### Mid Water
+### Sinking Ship
 _Frames_: 151-500
 _Render preferences_:
 - Noise Threshold **0.07**

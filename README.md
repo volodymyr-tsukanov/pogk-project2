@@ -1,16 +1,14 @@
 # Project SEA2
 
 ## Scenario
-Time travel(underwater scene -> desert)
+Underwater scene, sinking ship <br>
 Action starts from underwater view near the surface, no seabed is visible.
-A turtle shows up at the left screen corner, the camera flies forward after the turtle capturing the prins jellyfish and a shoal of tropical fish. The turtle continues to swim forward, the camera dives to depth.
-Another shoal of fish swimming by horizontally. The camera descends to the seabed and slightly flies backwards. Rocks, corals and the vase fragment show up. The camera stops, the bathyscaph moving from the front left corner of the screen to the camera. After the submarine passes the camera it leaves a trail of air bubbles.
-Few moments later, sea monster shows at the right front. The gigantic shark swims on the camera and eats it.
-In the dark an antique golden watch becomes visible. It ticking forwards…
-(clock ticking -> scene changes to desert)
-
-## Uwagi
-Animacja min 10s
+A turtle shows up at the right screen corner, the camera flies forward after the turtle capturing a jellyfish and a shoal of tropical fish.
+The turtle swims left, the camera dives to depth.
+The cargo ship sinks. The camera flies above the ship deck.
+The prins jellyfish is visible on the screen. A shoal of fish swims alogside the ship.
+The camera stops in front of opened cargo. The vase fragment floats from the cargo to the camera.
+An antique golden watch floating nearby the vase. It ticking backwards…
 
 ## Usefull
 - [Materials](https://FreePBR.com)
