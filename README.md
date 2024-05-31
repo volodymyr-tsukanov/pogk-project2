@@ -8,7 +8,7 @@ The turtle swims left, the camera dives to depth.
 The cargo ship sinks. The camera flies above the ship deck.
 The prins jellyfish is visible on the screen. A shoal of fish swims alogside the ship.
 The camera stops in front of opened cargo. The vase fragment floats from the cargo to the camera.
-An antique golden watch floating nearby the vase. It ticking backwards…
+An antique golden watch floating nearby the vase. As it ticks time goes backwards…
 
 ## Usefull
 - [Materials](https://FreePBR.com)
