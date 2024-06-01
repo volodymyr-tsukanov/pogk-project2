@@ -17,6 +17,7 @@ _Render preferences_:
 - Min Samples **16**
 - Light Paths **6**
 - Denoise **OpenImage Fast**
+- Look **High Contrast**
 
 ### Near the Surface
 _Frames_: 101-300
@@ -26,15 +27,18 @@ _Render preferences_:
 - Min Samples **18**
 - Light Paths **8**
 - Denoise **OpenImage Fast**
+- Look **Medium High Contrast**
 
 ### The Sinking Ship
 _Frames_: 301-574
 _Render preferences_:
 - Noise Threshold **0.4**
 - Light Paths **10**
+- Look **High Contrast**
 
 ### Backwards
 _Frames_: 575-700
 _Render preferences_:
 - Noise Threshold **0.4**
 - Light Paths **12**
+- Look **Medium Low Contrast**
