@@ -14,7 +14,7 @@ _Frames_: 1-100
 _Render preferences_:
 - Noise Threshold **0.3**
 - Light Paths **8**
-- Look **High Contrast**
+- Look **Base Contrast**
 
 ### Near the Surface
 _Frames_: 101-300
