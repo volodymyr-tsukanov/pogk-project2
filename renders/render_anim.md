@@ -10,14 +10,14 @@ _Render preferences_:
 - Denoise **OpenImage Fast**
 
 ### Above the Ocean
-_Frames_: 1-100
+_Frames_: 1-87
 _Render preferences_:
 - Noise Threshold **0.3**
 - Light Paths **8**
 - Look **Base Contrast**
 
 ### Near the Surface
-_Frames_: 101-300
+_Frames_: 88-314
 _Render preferences_:
 - Noise Threshold **0.4**
 - Light Paths **10**
