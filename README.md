@@ -10,6 +10,28 @@ The prins jellyfish is visible on the screen. A shoal of fish swims alogside the
 The camera stops in front of opened cargo. The vase fragment floats from the cargo to the camera.
 An antique golden watch floating nearby the vase. As it ticks time goes backwards…
 
+## Etap 1
+**Eevee**
+![Etap1 eevee](renders/etap1_e-32.png)
+## Etap 2
+### First render
+**Cycles** 64spl
+![Etap2 cycles 64](renders/etap2_c-64.png)
+### Second render
+**Cycles** 271spl
+![Etap2 cycles 271](renders/etap2_c-271_d.png)
+### Final render
+**Cycles** 1024spl
+![Etap2 cycles](renders/etap2_c-1008_d.png)
+Compositing
+![Etap2 cycles](renders/etap2_c-1008_p.png)
+## Etap 3
+### First renders
+Frame 398 (512spl)
+![Etap1 cycles frame 398](renders/etap3-1_c-512-frm398.png)
+Frame 398 (128spl)
+![Etap1 cycles frame 398](renders/etap3_c-128-frm182.png)
+
 ## Usefull
 - [Materials](https://FreePBR.com)
 - [Models](https://sketchfab.com)
