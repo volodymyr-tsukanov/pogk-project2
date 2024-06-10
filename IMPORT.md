@@ -51,3 +51,23 @@
   Authors: Jarod Guest, Sergej Majboroda
   License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
+## Sounds
+- [Thunderstorm](https://pixabay.com/sound-effects/thunderstorm-14708/)
+  License: the Pixabay [Content License](https://pixabay.com/service/license-summary/)
+- [Wind sea](https://pixabay.com/sound-effects/wind-sea-03-091007-35561/)
+  License: the Pixabay [Content License](https://pixabay.com/service/license-summary/)
+- [Heavy Rain](https://pixabay.com/sound-effects/heavy-rain-23982/)
+  License: the Pixabay [Content License](https://pixabay.com/service/license-summary/)
+- [Ship horn](https://pixabay.com/sound-effects/cruise-ship-horn-harbour-saint-john-191003-62253/)
+  License: the Pixabay [Content License](https://pixabay.com/service/license-summary/)
+- [Sinking ship](https://pixabay.com/sound-effects/ship-sinking-down-a-plughole-72899/)
+  License: the Pixabay [Content License](https://pixabay.com/service/license-summary/)
+- [Underwater waves](https://pixabay.com/sound-effects/underwater-waves-5983/)
+  License: the Pixabay [Content License](https://pixabay.com/service/license-summary/)
+- [Underwater](https://pixabay.com/sound-effects/underwater-159894/)
+  Author: Marcus Vogt
+  License: the Pixabay [Content License](https://pixabay.com/service/license-summary/)
+- [Underwater ambience](https://pixabay.com/sound-effects/underwater-ambience-6201/)
+  License: the Pixabay [Content License](https://pixabay.com/service/license-summary/)
+- [Watch ticking](https://pixabay.com/sound-effects/watch-ticking-69213/)
+  License: the Pixabay [Content License](https://pixabay.com/service/license-summary/)
