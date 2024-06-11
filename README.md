@@ -22,15 +22,15 @@ An antique golden watch floating nearby the vase. As it ticks time goes backward
 ![Etap2 cycles 271](renders/etap2_c-271_d.png)
 ### Final render
 **Cycles** 1024spl
-![Etap2 cycles](renders/etap2_c-1008_d.png)
+![Etap2 cycles 1008](renders/etap2_c-1008_d.png)
 Compositing
-![Etap2 cycles](renders/etap2_c-1008_p.png)
+![Etap2 cycles composite](renders/etap2_c-1008_p.png)
 ## Etap 3
 ### First renders
 Frame 398 (512spl)
-![Etap1 cycles frame 398](renders/etap3-1_c-512-frm398.png)
-Frame 398 (128spl)
-![Etap1 cycles frame 398](renders/etap3_c-128-frm182.png)
+![Etap3 cycles frame 398](renders/etap3-1_c-512-frm398.png)
+Frame 182 (128spl)
+![Etap3 cycles frame 182](renders/etap3-1_c-128-frm182.png)
 
 ## Usefull
 - [Materials](https://FreePBR.com)

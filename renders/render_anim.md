@@ -24,14 +24,14 @@ _Render preferences_:
 - Look **Medium High Contrast**
 
 ### The Sinking Ship
-_Frames_: 315-499
+_Frames_: 315-480
 _Render preferences_:
 - Noise Threshold **0.25**
 - Light Paths **12**
 - Look **High Contrast**
 
 ### Backwards
-_Frames_: 500-700
+_Frames_: 481-700
 _Render preferences_:
 - Noise Threshold **0.25**
 - Light Paths **12**
