@@ -40,8 +40,10 @@ Frame 182 (128spl)
 - [Sounds](https://pixabay.com/sound-effects/)
 
 ## Import
-[import](IMPORT.md)
+[import](IMPORT.md) <br><br>
 
+
+![Finished](https://img.shields.io/badge/status-Finished%20%F0%9F%94%9A-3CB371?style=for-the-badge&logo=github) <br>
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
